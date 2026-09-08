@@ -24,7 +24,7 @@ dependencies {
     api(project(":yt:java:flow:flow-spring-boot-starter"))
     api("com.google.protobuf:protobuf-java:4.33.0")
     api("com.google.protobuf:protobuf-java-util:4.33.0")
-    api("com.fasterxml.jackson.core:jackson-core:2.19.2")
+    api("com.fasterxml.jackson.core:jackson-core:2.21.4")
     api("com.fasterxml.jackson.core:jackson-databind:2.19.2")
     api("io.grpc:grpc-api:1.78.0")
     api("io.grpc:grpc-context:1.78.0")
