@@ -29,7 +29,7 @@ dependencies {
     implementation("javax.persistence:persistence-api:1.0")
     implementation("com.google.protobuf:protobuf-java:4.33.0")
 
-    implementation("org.apache.logging.log4j:log4j-slf4j-impl:2.13.1") {
+    implementation("org.apache.logging.log4j:log4j-slf4j-impl:2.25.5") {
         exclude(group = "org.slf4j", module = "slf4j-api")
     }
 }
