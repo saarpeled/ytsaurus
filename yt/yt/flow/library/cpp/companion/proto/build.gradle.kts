@@ -27,7 +27,7 @@ tasks.withType<Javadoc>().configureEach {
 
 dependencies {
     api("com.google.protobuf:protobuf-java:4.33.0")
-    api("io.grpc:grpc-stub:1.51.0")
+    api("io.grpc:grpc-stub:1.57.0")
     api("io.grpc:grpc-protobuf:1.51.0")
     api("javax.annotation:javax.annotation-api:1.3.1")
     api(project(":yt:yt_proto:yt:core"))
