@@ -84,7 +84,7 @@ dependencies {
     testImplementation("org.lz4:lz4-java:1.6.0")
     testImplementation("org.jspecify:jspecify:1.0.0")
     testImplementation("com.beust:jcommander:1.82")
-    testImplementation("com.hubspot.jinjava:jinjava:2.8.0")
+    testImplementation("com.hubspot.jinjava:jinjava:2.8.3")
 }
 
 tasks.named<Test>("test") {
