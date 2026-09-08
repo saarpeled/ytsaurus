@@ -1,6 +1,6 @@
 module go.ytsaurus.tech/yt/admin/timbertruck
 
-go 1.23.8
+go 1.25.0
 
 require (
 	github.com/cenkalti/backoff/v4 v4.3.0
@@ -13,7 +13,7 @@ require (
 	go.ytsaurus.tech/library/go/core/metrics v0.0.2
 	go.ytsaurus.tech/library/go/httputil/headers v0.0.3
 	go.ytsaurus.tech/yt/go v0.0.26
-	golang.org/x/sys v0.33.0
+	golang.org/x/sys v0.44.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -36,6 +36,7 @@ require (
 	go.uber.org/atomic v1.11.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
+	go.ytsaurus.tech/library/go/blockcodecs v0.0.3 // indirect
 	go.ytsaurus.tech/library/go/core/xerrors v0.0.4 // indirect
 	go.ytsaurus.tech/library/go/ptr v0.0.2 // indirect
 	go.ytsaurus.tech/library/go/x/xreflect v0.0.3 // indirect
