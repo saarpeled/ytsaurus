@@ -27,7 +27,7 @@ tasks.withType<Javadoc>().configureEach {
 dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter:5.8.2")
     api("org.apache.commons:commons-math3:3.6.1")
-    api("com.google.guava:guava:31.0.1-jre")
+    api("com.google.guava:guava:32.0.0-android")
     api(project(":yt:java:type-info"))
     api(project(":yt:java:yson"))
     api(project(":yt:java:yson-tree"))
