@@ -40,7 +40,7 @@ dependencies {
     api("io.netty:netty-handler-proxy:4.1.42.Final")
     api("io.netty:netty-transport:4.1.42.Final")
     api("io.netty:netty-transport-native-epoll:4.1.42.Final:linux-x86_64")
-    api("org.lz4:lz4-java:1.6.0")
+    api("org.lz4:lz4-java:1.8.1")
     testImplementation("javax.persistence:persistence-api:1.0")
     testImplementation(project(":yt:java:ytsaurus-testlib"))
     testImplementation(project(":yt:java:ytsaurus-testlib:src:main:proto"))
