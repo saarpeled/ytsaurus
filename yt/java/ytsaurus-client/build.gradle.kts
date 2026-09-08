@@ -52,7 +52,7 @@ dependencies {
     testImplementation(project(":yt:java:ytsaurus-testlib"))
     testImplementation("com.google.protobuf:protobuf-java:4.33.0")
     testImplementation("com.fasterxml.jackson.core:jackson-core:2.11.3")
-    testImplementation("com.fasterxml.jackson.core:jackson-databind:2.11.3")
+    testImplementation("com.fasterxml.jackson.core:jackson-databind:2.21.6")
     testImplementation("junit:junit:4.13")
     testImplementation("org.apache.logging.log4j:log4j-core:2.25.0")
     testImplementation("org.apache.logging.log4j:log4j-slf4j-impl:2.25.1")

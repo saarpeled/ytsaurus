@@ -26,7 +26,7 @@ tasks.withType<Javadoc>().configureEach {
 
 dependencies {
     api(project(":yt:java:yson-tree"))
-    api("com.fasterxml.jackson.core:jackson-databind:2.11.3")
+    api("com.fasterxml.jackson.core:jackson-databind:2.21.6")
     testImplementation("junit:junit:4.13")
 }
 
