@@ -34,7 +34,7 @@ dependencies {
     api("com.google.protobuf:protobuf-java:4.33.0")
     api("org.slf4j:slf4j-api:1.7.7")
     api("io.netty:netty-buffer:4.1.42.Final")
-    api("io.netty:netty-codec:4.1.42.Final")
+    api("io.netty:netty-codec:4.1.133.Final")
     api("io.netty:netty-common:4.1.42.Final")
     api("io.netty:netty-handler:4.1.42.Final")
     api("io.netty:netty-handler-proxy:4.1.42.Final")
