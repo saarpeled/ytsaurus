@@ -3,7 +3,7 @@ module std
 go 1.25
 
 require (
-	golang.org/x/crypto v0.39.0
+	golang.org/x/crypto v0.56.0
 	golang.org/x/net v0.41.0
 )
 
