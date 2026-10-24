@@ -47,7 +47,7 @@ dependencies {
     api("org.slf4j:slf4j-api:2.0.17")
     api("org.lz4:lz4-java:1.6.0")
     api("org.jspecify:jspecify:1.0.0")
-    api("com.hubspot.jinjava:jinjava:2.8.0")
+    api("com.hubspot.jinjava:jinjava:2.8.3")
     testImplementation(project(":yt:java:flow:flow-core"))
     testImplementation(project(":yt:java:flow:flow-server"))
     testImplementation("javax.persistence:persistence-api:1.0")
