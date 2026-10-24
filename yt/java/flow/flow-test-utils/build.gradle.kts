@@ -45,7 +45,7 @@ dependencies {
     api("io.micrometer:micrometer-commons:1.16.3")
     api("io.micrometer:micrometer-observation:1.16.3")
     api("org.slf4j:slf4j-api:2.0.17")
-    api("org.lz4:lz4-java:1.6.0")
+    api("org.lz4:lz4-java:1.8.1")
     api("org.jspecify:jspecify:1.0.0")
     api("com.hubspot.jinjava:jinjava:2.8.0")
     testImplementation(project(":yt:java:flow:flow-core"))
