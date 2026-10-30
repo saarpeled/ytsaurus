@@ -47,7 +47,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter:6.0.2")
     testImplementation("org.junit.jupiter:junit-jupiter-api:6.0.2")
     testImplementation("org.mockito:mockito-core:5.21.0")
-    testImplementation("org.apache.logging.log4j:log4j-slf4j2-impl:2.25.1")
+    testImplementation("org.apache.logging.log4j:log4j-slf4j2-impl:2.26.0")
 }
 
 tasks.named<Test>("test") {
