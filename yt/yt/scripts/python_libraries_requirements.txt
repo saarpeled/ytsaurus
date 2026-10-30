@@ -8,7 +8,7 @@ distro==1.9.0
 typing-extensions==4.15.0
 attrs==23.2.0
 numpy==1.26.4
-pyarrow==23.0.1
+pyarrow==26.0.0
 pandas==2.3.3
 confluent-kafka==2.6.1
 boto3==1.35.99
