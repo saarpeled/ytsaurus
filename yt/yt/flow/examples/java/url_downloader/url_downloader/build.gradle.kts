@@ -33,7 +33,7 @@ dependencies {
     api("io.grpc:grpc-netty-shaded:1.78.0")
     api("io.grpc:grpc-services:1.78.0")
     api("com.google.api.grpc:proto-google-common-protos:2.63.1")
-    api("com.google.guava:guava:33.5.0-jre")
+    api("com.google.guava:guava:33.8.0-android")
     api("com.google.guava:failureaccess:1.0.3")
     api("com.google.j2objc:j2objc-annotations:3.1")
     api("com.google.errorprone:error_prone_annotations:2.44.0")
