@@ -44,7 +44,7 @@ dependencies {
     api("io.micrometer:micrometer-observation:1.16.3")
     api("org.slf4j:slf4j-api:2.0.17")
     api("org.apache.logging.log4j:log4j-api:2.25.3")
-    api("org.apache.logging.log4j:log4j-core:2.25.3")
+    api("org.apache.logging.log4j:log4j-core:2.25.4")
     api("org.apache.logging.log4j:log4j-slf4j2-impl:2.25.3")
     api("org.lz4:lz4-java:1.6.0")
     api("org.jspecify:jspecify:1.0.0")
