@@ -53,7 +53,7 @@ dependencies {
     api("com.beust:jcommander:1.82")
     api("org.springframework.boot:spring-boot-starter-log4j2:4.0.2")
     api("org.springframework.boot:spring-boot-autoconfigure:4.0.2")
-    api("org.springframework:spring-context:7.0.3")
+    api("org.springframework:spring-context:7.0.9")
     testImplementation(project(":yt:java:flow:flow-core"))
     testImplementation(project(":yt:java:flow:flow-test-utils"))
     testImplementation("javax.persistence:persistence-api:1.0")
