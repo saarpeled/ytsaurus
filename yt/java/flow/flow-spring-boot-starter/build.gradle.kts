@@ -48,7 +48,7 @@ dependencies {
     api("org.apache.logging.log4j:log4j-api:2.25.3")
     api("org.apache.logging.log4j:log4j-core:2.25.3")
     api("org.apache.logging.log4j:log4j-slf4j2-impl:2.25.3")
-    api("org.lz4:lz4-java:1.6.0")
+    api("org.lz4:lz4-java:1.8.1")
     api("org.jspecify:jspecify:1.0.0")
     api("com.beust:jcommander:1.82")
     api("org.springframework.boot:spring-boot-starter-log4j2:4.0.2")
